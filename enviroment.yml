@@ -1,0 +1,7 @@
+name: cookiecuttepersonal
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter=1.7.3
+prefix: /home/cristian/anaconda3/envs/cookiecuttepersonal
